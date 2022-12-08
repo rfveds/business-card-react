@@ -10,6 +10,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - JavaScript
 - CSS 
 
+## Screenshots
+![screenshot](./img/screenshot.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
