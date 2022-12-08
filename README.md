@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - CSS 
 
 ## Screenshots
-![screenshot](./imgs/screenshot.png)
+![screenshot](./imgs/Screenshot.png)
 
 ## Available Scripts
 
