@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## General Information
+- This project is a part of React tutorial.
+
+## Technologies Used
+- HTML
+- JavaScript
+- CSS 
+
 ## Available Scripts
 
 In the project directory, you can run:
