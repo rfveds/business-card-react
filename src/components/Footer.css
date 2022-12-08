@@ -1,0 +1,15 @@
+footer {
+    width: 317px;
+    height: 64px;
+    background: #161619;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 23.5px;
+
+    color: var(--clr-grey--dark);
+}
+

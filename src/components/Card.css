@@ -1,0 +1,8 @@
+.card {
+    margin-inline: auto;
+    width: 317px;
+    height: 100%;
+    margin-block-start: 44px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
